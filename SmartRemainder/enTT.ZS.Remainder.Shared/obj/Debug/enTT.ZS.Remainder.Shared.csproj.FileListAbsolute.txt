@@ -1,0 +1,5 @@
+D:\Personal\Qartz\SmartRemainder\enTT.ZS.Remainder.Shared\bin\Debug\enTT.ZS.Remainder.Shared.dll
+D:\Personal\Qartz\SmartRemainder\enTT.ZS.Remainder.Shared\bin\Debug\enTT.ZS.Remainder.Shared.pdb
+D:\Personal\Qartz\SmartRemainder\enTT.ZS.Remainder.Shared\obj\Debug\enTT.ZS.Remainder.Shared.csprojResolveAssemblyReference.cache
+D:\Personal\Qartz\SmartRemainder\enTT.ZS.Remainder.Shared\obj\Debug\enTT.ZS.Remainder.Shared.dll
+D:\Personal\Qartz\SmartRemainder\enTT.ZS.Remainder.Shared\obj\Debug\enTT.ZS.Remainder.Shared.pdb
